@@ -1,3 +1,4 @@
+package banco;
 
 /**
  * Classe abstrata Mensalidade - escreva uma descrição da classe aqui

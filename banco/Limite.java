@@ -1,3 +1,4 @@
+package banco;
 
 /**
  * Classe abstrata Limite - escreva uma descrição da classe aqui

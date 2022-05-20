@@ -1,3 +1,4 @@
+package banco;
 
 /**
  * Escreva uma descrição da classe Ch_Bloqueado aqui.

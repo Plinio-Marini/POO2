@@ -1,3 +1,4 @@
+package banco;
 
 /**
  * Classe abstrata Rentabilidade - escreva uma descrição da classe aqui

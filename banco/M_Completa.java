@@ -1,3 +1,4 @@
+package banco;
 
 /**
  * Escreva uma descrição da classe M_Completa aqui.

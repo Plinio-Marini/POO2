@@ -1,3 +1,4 @@
+package banco;
 
 /**
  * Classe abstrata Movimentação - escreva uma descrição da classe aqui
