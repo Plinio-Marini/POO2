@@ -79,20 +79,20 @@ public abstract class Conta {
    public void limitar(){
        this.limite.limitar();
    }
+   
+   public void movimentar(){
+       this.movimentacao.movimentar(); 
+   }
+   
+   public void mensal(){
+       this.mensalidade.mensal(); 
+   }
+   
+   public void rentabilizar(){
+       this.rentabilidade.rentabilizar(); 
+   }
 
    // getters para mensalidade/rentabilidade/movimentacao?
-   // protected por enquanto ...
-
-   protected Mensalidade getMensalidade(){
-       return mensalidade;
-   }
-
-   protected Rentabilidade getRentabilidade(){
-       return rentabilidade;
-   }
-
-   protected Movimentacao getMovimentacao(){
-       return movimentacao;
-   }
+   // removido
 
 }
