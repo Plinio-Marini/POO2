@@ -6,7 +6,7 @@ public abstract class Estado{
         this.mario = mario;
     }
 
-    protected abstract void verifyState();
+    protected abstract void verifyState(Mario mario);
 
     public void pegarCogumelo();
 
