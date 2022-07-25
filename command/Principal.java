@@ -1,3 +1,4 @@
+/*Autor: Leonardo Marques Ferreira(Matrícula: 11921BSI235)*/
 import comando.*;
 import comando.receivers.ArCondicionado;
 import comando.receivers.Forno;
